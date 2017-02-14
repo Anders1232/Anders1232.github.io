@@ -1,3 +1,10 @@
+## Welcome to Francisco Anderson's homepage!
+
+I'm a computer science student at University of Brasília, 80% of the graduation completed. C and C++ programmer, GNU and Linux enthusiast, gamer with experience in Unity3D, Pthreads, Qt and some more stuff.
+
+
+I'll keep the default homepage for a while until I'm experieced enough using the github pages.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Anders1232/Anders1232.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
